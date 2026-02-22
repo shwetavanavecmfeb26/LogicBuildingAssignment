@@ -4,7 +4,7 @@ class NegNum{
            if(x<0)
               System.out.println("Given Number is Negative Number");
            else
-              System.out.println("Given Number is not negative Number");
+              System.out.println("Given Number is  not negative Number");
 
 
     }
